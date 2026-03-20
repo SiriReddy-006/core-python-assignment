@@ -1,4 +1,8 @@
+core-python-assessment
+
+
 Programs Included
+
 1️⃣ E-Commerce Cart System
 Calculates total price of items in a cart.
 If cart has more than 5 items, a 10% discount is applied.
